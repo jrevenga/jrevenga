@@ -69,15 +69,3 @@ AI (Jarvis)       → executes, generates, iterates
 
 </details>
 
-<details>
-<summary><h3>GitHub Stats</h3></summary>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=jrevenga&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" alt="GitHub Stats" height="170"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=jrevenga&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" height="170"/>
-
-</div>
-
-</details>
