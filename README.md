@@ -6,7 +6,7 @@
 
 <br/>
 
-**Deloitte** · Madrid, Spain
+**PwC** · Madrid, Spain
 
 Designing SDKs, MCP servers, and AI agents that connect LLMs to enterprise APIs.
 
