@@ -8,7 +8,7 @@
 
 **PwC** · Madrid, Spain
 
-Designing SDKs, MCP servers, and AI agents that connect LLMs to enterprise APIs.
+Building software, AI agents, and integrations that simplify enterprise workflows.
 
 <br/>
 
@@ -36,16 +36,12 @@ Designing SDKs, MCP servers, and AI agents that connect LLMs to enterprise APIs.
 
 ---
 
-### What I'm building
+### What I do
 
-I design and build the **Workiva AI ecosystem** — a suite of tools that connects LLMs to enterprise document management APIs:
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| **workiva-sdk** | Python SDK for Workiva APIs — Platform, Chains & Wdata | `Python` `httpx` `Pydantic` |
-| **workiva-mcp** | MCP server that exposes Workiva APIs as tools for LLM agents | `Python` `FastMCP` `Docker` |
-| **workiva-ai** | Conversational AI agent with multi-provider LLM and SSO/OIDC auth | `FastAPI` `React` `Claude API` |
-| **workiva-scripts** | Automation scripts for client engagements | `Python` `pandas` |
+- **AI engineering.** Build conversational agents and tools that connect LLMs to business applications.
+- **API integration & developer tooling.** Design SDKs, API clients, and MCP servers for enterprise platforms.
+- **Workflow automation.** Develop Python tools for document management, data processing, and repetitive business tasks.
+- **Backend development.** Build APIs and services with typed data models and enterprise authentication.
 
 ---
 
